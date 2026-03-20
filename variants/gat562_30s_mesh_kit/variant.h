@@ -106,7 +106,6 @@ extern "C"
 #define  ADC_MULTIPLIER         (3 * 1.75 * 1.187 * 1000)
 
 
-
 /*
  * Analog pins
  */
